@@ -1,9 +1,9 @@
 # Development of Functios, a Mobile Application on the Uses of Functional Groups
-The app is aimed to be a supplementary learning material for organic chemistry students, specifically on the topic of functional groups. Functios contains 14 functional groups, with three real-world uses or occurrences for each. There are also nomenclature examples with explanations to help students master naming organic compounds.
+Functios is aimed to be a supplementary learning material for organic chemistry students, specifically on the topic of functional groups. Functios contains 14 functional groups, with three real-world uses or occurrences for each. There are also nomenclature examples with explanations to help students master naming organic compounds.
 
 ## Authors
 
-This app was developed by Louis Fontanilla, Kyla Kiunisala, and Miah Sales from Philippine Science High School Main Campus with the assistance and guidance of Mr. Roy Canseco. 
+This app was developed by Louis Fontanilla, Kyla Kiunisala, and Miah Sales from Philippine Science High School Main Campus with the assistance and guidance of their Research Adviser, Mr. Roy Canseco. 
 
 ## Installation/ setup
 
