@@ -47,16 +47,3 @@ To Sir Roy Canseco, for his unwavering guidance and vast knowledge in his field,
 To Ms. Cailyn Mae Ong, Ms. Sabina Fate Gabrielle Mañgaser, and Zoe Jillian Yap of PSHS-MC Batch 2020 for their research project titled “Development of a Mobile Application on Medical Genetics as a Tool for Genetic Counseling in the Philippines,” which became the main reference for how we conducted our own project.
 
 And lastly, to our teacher and student participants, who wholeheartedly gave their valuable feedback and thoughts regarding our project.
-
-
-
-
-1. Title of your Project
-2. Description (around 2 sentences)
-3. Installation/ setup
-4. Users Manual / Instructions
-5. How to Contribute/ Develop/ Maintain the project
-6. List of Authors
-7. License
-8. Acknowledgements
-
